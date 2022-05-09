@@ -54,6 +54,8 @@ Title="Free_Heroes_of_Might_and_Magic_II ." Desc="A a recreation of Heroes of Mi
 
 Title="Freedom_Planet ." Desc="A combat-based platform adventure.  You must have a copy of Freedom Planet for Linux copied to the ports/freedomplanet/gamedata folder." porter="Johnny on Flame" locat="Freedom%20Planet.zip"
 
+Title="FreedroidRPG ." Desc="FreedroidRPG files are already included and ready to go." porter="Cebion" locat="freedroid.zip" runtype="rtr"
+
 Title="Heart_of_Darkness ." Desc="Heart of Darkness using the hode reimplementation of the engine developed by Amazing Studio.  Just add your own Heart of Darkness game files to the ports/hode/gamedata folder." porter="Jetup" locat="Heart%20of%20Darkness.zip"
 
 Title="Hurrican ." Desc="Turrican port by Thrimbor.  Just add the data and lang folders from here to the ports/hurrican folder or just launch Hurrican from the ports menu in Emulationstation and it will download the files and install them automatically." porter="romadu" locat="Hurrican.zip"
@@ -83,6 +85,8 @@ Title="OpenOMF ." Desc="An Open Source remake of "One Must Fall 2097" by Diversi
 Title="OpenTTD ." Desc="An open source simulation game based upon Transport Tycoon Deluxe." porter="Cebion" locat="Openttd.zip" runtype="rtr"
 
 Title="OpenTyrian ." Desc="OpenTyrian is an open-source port of the DOS game Tyrian.  OpenTyrian 2.1 files are already included as they were made freeware sometime ago." porter="Christian_Haitian" locat="OpenTyrian.zip" runtype="rtr"
+
+Title="OpenXcom Extended" Desc="OXCE is an open source engine for running XCOM:Ufo Defense and Terror From the Deep.  You will need to provide your own UFO Defense/TFTD game files.  Read the README-port.txt file for details." porter="nl255" locat="Openxcom.zip"
 
 Title="Owlboy ." Desc="A story-driven platform adventure game, where you can fly and explore a brand new world in the clouds.  Text is not readable on devices with screens less than 5 inches.  You must have a copy of Owlboy for Linux copied to the ports/owlboy/gamedata folder." porter="Johnny on Flame" locat="Owlboy.zip" mono="y"
 
